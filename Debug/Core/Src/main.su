@@ -1,0 +1,16 @@
+../Core/Src/main.c:88:5:main	8	static
+../Core/Src/main.c:246:6:SystemClock_Config	72	static
+../Core/Src/main.c:283:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:318:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:346:13:TIM_Init	40	static
+../Core/Src/main.c:431:6:HAL_TIM_Base_MspInit	24	static
+../Core/Src/main.c:470:6:HAL_TIM_Base_MspDeInit	16	static
+../Core/Src/main.c:503:6:TIM3_IRQHandler	8	static
+../Core/Src/main.c:508:13:generate_Dimmer	8	static
+../Core/Src/main.c:524:13:GPIO_init	32	static
+../Core/Src/main.c:539:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:548:6:LED_CTRL_vfnPeriodElapsedCallback	8	static
+../Core/Src/main.c:618:13:EXTI15_10_IRQHandler_Config	32	static
+../Core/Src/main.c:644:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:663:6:LED_CTRL_vfnChangeIntensity	8	static
+../Core/Src/main.c:677:6:Error_Handler	4	static,ignoring_inline_asm
